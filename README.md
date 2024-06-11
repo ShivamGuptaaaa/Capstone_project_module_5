@@ -3,8 +3,7 @@
 This repository contains solutions to 50 top interview questions. The goal is to provide clear, concise, and efficient solutions to help students and job seekers prepare for 
 their interviews. Additionally, a video explanation is provided for five selected questions to give a deeper understanding and dynamic learning experience.
 
-#  List of 50 Questions with Solutions
-Here are the solutions to 50 selected interview questions from the provided list of 80 questions.
+#  List of 80 Questions with Solutions
 
 1. What is a vector in mathematics?
 2. How is a vector different from a scalar?
